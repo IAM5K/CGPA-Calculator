@@ -51,7 +51,7 @@ int main()
    CGPA=tgrade/tcredit;
    cout << "Total CGPA" << " : "<< CGPA <<endl;
 
-    cout << "Developed By SK" <<endl;
+    cout << "Developed By SK: Thanks for using" <<endl;
 
 
     return 0;
